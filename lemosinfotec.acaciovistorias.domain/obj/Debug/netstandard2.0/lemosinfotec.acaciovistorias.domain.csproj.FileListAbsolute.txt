@@ -1,0 +1,9 @@
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\bin\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.deps.json
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\bin\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.dll
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\bin\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.pdb
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.csprojAssemblyReference.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.csproj.CoreCompileInputs.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.AssemblyInfoInputs.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.AssemblyInfo.cs
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.dll
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.domain\obj\Debug\netstandard2.0\lemosinfotec.acaciovistorias.domain.pdb

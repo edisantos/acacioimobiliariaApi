@@ -1,0 +1,12 @@
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\bin\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.deps.json
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\bin\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.dll
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\bin\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.pdb
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\bin\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.domain.dll
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\bin\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.domain.pdb
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.csprojAssemblyReference.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.csproj.CoreCompileInputs.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.AssemblyInfoInputs.cache
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.AssemblyInfo.cs
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.csproj.CopyComplete
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.dll
+E:\02-Projetos\10.AcacioVistorias\webapi\lemosinfotec.acaciovistorias.Data\obj\Debug\netcoreapp3.0\lemosinfotec.acaciovistorias.Data.pdb
